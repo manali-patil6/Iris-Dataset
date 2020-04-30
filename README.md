@@ -69,7 +69,7 @@ Michael Marshall (MARSHALL%PLU '@' io.arc.nasa.gov)
 > * Random forest
 > * Extra Tree Classifier
 > * XGBoost
-6. Comparison
+6. Performance Comparison
 7. Conclusion
 
 ## License :
